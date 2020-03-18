@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "146326500800",
+    "firebase_url": "https://shrihariinfotech-f2e6a.firebaseio.com",
+    "project_id": "shrihariinfotech-f2e6a",
+    "storage_bucket": "shrihariinfotech-f2e6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146326500800:android:f5e1eb8739d94a98284425",
+        "android_client_info": {
+          "package_name": "com.example.dedemowithmysql"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146326500800-jb8r0423d6q2e7jno22hdan63cm5u37b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6QC41bv5vLNYEtElZqS0yJWd5NBATyPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146326500800-jb8r0423d6q2e7jno22hdan63cm5u37b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146326500800:android:2310c63d920be173284425",
+        "android_client_info": {
+          "package_name": "com.shreehariinfotech.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146326500800-jb8r0423d6q2e7jno22hdan63cm5u37b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6QC41bv5vLNYEtElZqS0yJWd5NBATyPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146326500800-jb8r0423d6q2e7jno22hdan63cm5u37b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
